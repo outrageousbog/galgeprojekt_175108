@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Settings -->
+    <string name="settings_title">You are about to restart the game, are you sure?</string>
+    <string name="restart">Restart</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Losing dialog -->
+    <string name="lose_title">Too bad!</string>
+    <string name="lose_main">You lost! Would you like to play one more time?</string>
+
+    <!-- Winning dialog -->
+    <string name="win_title">Congratulations!</string>
+    <string name="win_main">You won! Would you like to play one more time?</string>
+    <string name="win_yes">Absolutely</string>
+
+    <!-- letters on keyboard buttons -->
+    <string name="app_name">Galgeprojekt</string>
+    <string name="q_letter">q</string>
+    <string name="w_letter">w</string>
+    <string name="e_letter">e</string>
+    <string name="r_letter">r</string>
+    <string name="t_letter">t</string>
+    <string name="y_letter">y</string>
+    <string name="u_letter">u</string>
+    <string name="i_letter">i</string>
+    <string name="o_letter">o</string>
+    <string name="p_letter">p</string>
+    <string name="a_letter">a</string>
+    <string name="s_letter">s</string>
+    <string name="d_letter">d</string>
+    <string name="f_letter">f</string>
+    <string name="g_letter">g</string>
+    <string name="h_letter">h</string>
+    <string name="j_letter">j</string>
+    <string name="k_letter">k</string>
+    <string name="l_letter">l</string>
+    <string name="z_letter">z</string>
+    <string name="x_letter">x</string>
+    <string name="c_letter">c</string>
+    <string name="v_letter">v</string>
+    <string name="b_letter">b</string>
+    <string name="n_letter">n</string>
+    <string name="m_letter">m</string>
+    <string name="hangman_welcome">H_ngm_n</string>
+    <string name="choose_a_category">Choose a category</string>
+    <string name="category_1">Friends</string>
+    <string name="category_2">Jakob</string>
+    <string name="category_3">games</string>
+    <string name="credit">Created by: S175108, music by: Darren Curtis - CC license</string>
+</resources>
